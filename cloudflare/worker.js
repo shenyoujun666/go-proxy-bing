@@ -1,8 +1,8 @@
 // 同查找 _U 一样, 查找 KievRPSSecAuth 的值并替换下方的xxx
-const KievRPSSecAuth = '';
-const _RwBf = '';
-const MUID = '';
-const _U = '';
+const KievRPSSecAuth = 'FACCBBRaTOJILtFsMkpLVWSG6AN6C/svRwNmAAAEgAAACO2xmslcX0odQATkqFyNsT+EL7ldnEEOUvOmmtQ3S1pEcAN5qEQbK5X5LiGYScxfjuK+69pZ3oD/BCN3NEZ9kWb1skh08IqJUjTtlnFPPVNC6s0tZE4PW4a8sFc/M28phCNSoaU8C1qNrKaip5NpeqGTG+42zocS2F1LlFLCJMN2agg8B7d1JGt99hSAbbySKN3AVwK9sBujVc0uf5DAlCQRdVaUXa+k875OiaKiqx/iOkO26TE7O7oEMdFxt5/bUqLhaIZo4YQ/5tK67h6U1JzJ078pwrzF9to3TFzywzTSveEiNZqYsVHmbnzEnL8YVYEKM0ImkG7FijwCYn/m5olkCnyI7urOc92Ui2mKSUyb0ILsaDd03SoT0znbaD4QUUQSmtY8gOc8aNFcxKGR0zBREJ6cz3yvhEkHVaZWlHiM+SlIDseEFXWRtb+4lG+s5Qbgq0brVm/WmfiOGhZtKkzgbGNlsrSG5Ib4GaVnHJYYXsda0PygD6ESegkugQcRIv+iKDuPwr5ime6sSheD/9yglkRYQpRwboTzxGeld3kXSMFVAaENOdpkKw+aPvFyJfXzABsEnBz2143Jt/2SKjqTZXmCLh100XXyrC15cMPF/4jTPbZz9A5qyZcACK5SN/0EXH/DhXRkP2puovQ/wU7RhU389eHll37fOQ5F87lv3Mopd+gvTAwvIVb5J5nAjBEYpW2uI4oPqQEpQcFH6SOS1/KUfUAUxKEbZs4w8VPphIuYs0s1omMGze3T4nlLEqN58NnjiUFHJoT3uKrHnqPBAfgwwyvNPuPRdBuDFz8Vocan3HKpFHM756lFRPRC357wjyoQylGnD9pOsG/6frcehyd7Ir0MKt50YXVm7FyFFfSsgIbsEOc+IM7UD72yi3xZIwHDFuf9f4HrzEMsnUorKJyPBVSs6DcGmTPNARsrFa6T33ylB53t5wlcYuvOv1ab3wFQkMm+47HQjdi1DE520VZNnTK1qI3abrtgwNb/enbPE6jLCqFwtZNQ6VpEoFx4fj8Q7+waY3HDkb0AmS1PtplHb3nBY+k3l7IeZZMy2FgJGMzyTpauXleAg2R7k6QKceKMD5olbJ3lmTDf+DbNo4x07wYbciM1gD7bQ1hnn8ZMej8t8iMC5D8kCHxOdxErKzaPRZ+9vCR6FePLR2Pw9tR0jjrFHwvGfb7BY6F4/mYAVBzXw8sPqxW7NStauwDKJOTj9GKG5XfFTrZYw3vObTGDAnQ63zS4KvTw2oYNv9Rd0dbI10y3A9m593Fhgcjx7gcDT/BOhB5RTDhkdkJ73DuEiN0VDGgzwMvcDIosOESO5gDEmMDloDoiyJ8Llay0GmuOOySVhE8EQrJOWTvUI0qz13IW4bPndaLj8obBnHwPMZXAT7RwHDktrKxQ59KgpdD8VqQV3m0wNP+esBctxAQN4YeZIjYyN+wnR2vRYmcbai2egMVWEBQAZP/DhtK/orreDy9FWPsWcl1f64c=';
+const _RwBf = 'r=0&ilt=2&ihpd=0&ispd=2&rc=10&rb=0&gb=0&rg=200&pc=5&mtu=0&rbb=0&g=0&cid=&clo=0&v=2&l=2023-09-02T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2023-09-02T14:01:56.0745837+00:00&rwred=0&wls=2&wlb=&lka=0&lkt=0&TH=';
+const MUID = '074AD7F106536BC6392FC4C907CA6AEA';
+const _U = '1uDLEBQAnWGpj1qAJVs8fZ42-IVnB7nj0Jnz55xm56l1MMNs2ucaNcYRLzNbutqgE3OBfVnFQsg6b_M918WlsOwixFScwgCYfIQcYdV3Amva9MsQuXfuydDnfSZl0vIRQGOGqp0pvTg1OPLvYvJCDkVB-OF5v0PEdFEeQraN1EOM9yCVcF9jvQEbw8kqWFwyNTwYWIu8_Sp0mIdtRWXRVdx5uadNM6qry458axOmh9aI';
 
 const SYDNEY_ORIGIN = 'https://sydney.bing.com';
 const BING_ORIGIN = 'https://www.bing.com';
@@ -124,7 +124,7 @@ const randomString = (e) => {
  * @returns
  */
 const home = async (pathname) => {
-  const baseUrl = 'https://raw.githubusercontent.com/Harry-zklcdc/go-proxy-bingai/master/';
+  const baseUrl = 'https://usercontent.githubfast.com/raw/Harry-zklcdc/go-proxy-bingai/master/';
   let url;
   if (pathname.indexOf('/web/') === 0) {
     url = pathname.replace('/web/', baseUrl+'web/');
